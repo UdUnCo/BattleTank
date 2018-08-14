@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "BattleTank.h"
 #include "TankPlayerController.h"
+#include "BattleTank.h"
 
 //if virtual the children can override / extend the methode
 void ATankPlayerController::BeginPlay()
